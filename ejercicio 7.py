@@ -1,5 +1,5 @@
-lista_productos = ["Papas fritas", "Vaso de coca cola", "Helado de vainilla", "Hamburguesa doble con cheddar", "Hamburguesa doble "]
-lista_precios = [4000, 2800, 3600, 9000, 8000]
+lista_productos = []
+lista_precios = []
 
 cantidad = int(input("¿Cuántos productos desea ingresar?: "))
 
